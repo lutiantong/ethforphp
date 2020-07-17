@@ -1,0 +1,18 @@
+{
+  "name": "lutiantong/ethforphp",
+  "description": "Ethereum PHP development kit",
+  "authors": [
+    {
+      "name": "lutiantong"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "lutiantong\\ethforphp\\": "src/"
+    }
+  }
+}
